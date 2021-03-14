@@ -9513,7 +9513,7 @@ export const smallGraph: ProjectGraphCache = {
       type: 'npm',
       name: 'npm:@types/node',
       data: {
-        version: '12.12.38',
+        version: '14.14.33',
         packageName: '@types/node',
         files: [],
       },
@@ -9927,7 +9927,7 @@ export const smallGraph: ProjectGraphCache = {
       type: 'npm',
       name: 'npm:dotenv',
       data: {
-        version: '6.2.0',
+        version: '8.2.0',
         packageName: 'dotenv',
         files: [],
       },
